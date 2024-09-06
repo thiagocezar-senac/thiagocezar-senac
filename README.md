@@ -1,4 +1,6 @@
 ## 👩‍💻 Thiago's GitHub
+### 🔍🐛 Senior Software Quality Assurance 
+
 
 Analista de qualidade de software com 8 anos de experiência, focado em testes automatizados e disseminação do mindset de qualidade ao longo de todo o ciclo de desenvolvimento da aplicação. Com ênfase em mobile, meu foco está em UI/UX para Android/iOS e em testes automatizados front-end e API.
 
