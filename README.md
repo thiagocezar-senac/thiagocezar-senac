@@ -33,3 +33,7 @@ Analista de qualidade de software com 8 anos de experiência, focado em testes a
 
 - **FIQ - Focus in Quality**
 - **Acert Certificações e Treinamentos**
+
+## 🌐 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/thiagotcezar)
